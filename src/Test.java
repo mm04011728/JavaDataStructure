@@ -7,6 +7,6 @@ public class Test {
 	}
 	private static void binrayTreeTest()
 	{
-		
+		System.out.println("hello world");
 	}
 }
